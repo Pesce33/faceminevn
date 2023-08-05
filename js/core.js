@@ -3,49 +3,49 @@ window.onload = function () {
     // GENERAL CONFIGS v0.1
 
     //Site title
-    let title = 'BattleCraft';
+    let title = 'FaceMineVN';
 
     //Server Ip (counter)
-    var serverIp = 'play.foxcraft.net';
-    var serverIpPort = 25565;
+    var serverIp = 'Facevn.aternos.me';
+    var serverIpPort = 37202;
 
     //Banner image (url) 
     var bannerTop = 'https://i.imgur.com/k0MtSCb.png';
 
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
-    var text_Gfirst = 'Special Items';
+    var text_Gfirst = 'Lối Chơi Đơn Giản';
     var image_Gfirst = 'https://i.imgur.com/OkfQb7q.png';
     //Second text / image (url)
-    var text_Gsecond = 'Economy'
+    var text_Gsecond = 'Hệ Thống Tiền Tệ'
     var image_Gsecond = 'https://i.imgur.com/XU4KHgV.png';
     //Third text / image (url)
-    var text_Gtrird = 'Great Community'
+    var text_Gtrird = 'Cộng Đồng Tốt'
     var image_Gtrird = 'https://i.imgur.com/7JP74WT.png';
     //--------------------------------------------
 
     //Type Server (FullPVP, MiniGame, Survival, and others...)
-    var typeServer = 'Full PVP';
+    var typeServer = 'SMP';
 
     //--------------- Home Gallery ---------------
     // Image automatically changes according to the name :)
     //Firs player nick / comment text
-    var firstPlayerName = 'Dor1toz';
-    var firstPlayerComment = "The best server, great fun and the team helps whenever I need it!";
+    var firstPlayerName = 'Khanhkn';
+    var firstPlayerComment = "Chào Mừng đến với .....";
     //Second player nick / comment text
-    var secondPlayerName = 'Tester';
-    var secondPlayerComment = "Fun, cute and cool. All my friends are playing here and let's make a clan, best server ever";
+    var secondPlayerName = 'hef_sus';
+    var secondPlayerComment = "I will become the most powerful player on this smp!";
     //Third player nick / comment text
-    var trirdPlayerName = 'Notch';
-    var trirdtPlayerComment = "I will defeat them all, wait for me!";
+    var trirdPlayerName = 'Technoblade';
+    var trirdtPlayerComment = "Khanhkn non";
     //--------------------------------------------
 
     //Social media links / banner (url)
-    var urlFacebook = "https://github.com/Tiagox42";
-    var urlTwiiter = "https://github.com/Tiagox42";
-    var urlInstagram = "https://www.instagram.com/tdantas42/";
-    var urlYoutube = "https://www.youtube.com/user/Tg42x/videos";
-    var discordInvite = "https://github.com/Tiagox42";
+    var urlFacebook = "https://www.facebook.com/tranthientam.nguyen.35?mibextid=ZbWKwL";
+    var urlTwiiter = "https://www.facebook.com/tranthientam.nguyen.35?mibextid=ZbWKwL";
+    var urlInstagram = "https://www.facebook.com/tranthientam.nguyen.35?mibextid=ZbWKwL";
+    var urlYoutube = "https://www.facebook.com/tranthientam.nguyen.35?mibextid=ZbWKwL";
+    var discordInvite = "https://discord.gg/Qf37bGeQEw";
     var bannerSocialImage = "https://i.imgur.com/oSbKvAT.png";
 
 
