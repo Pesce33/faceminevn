@@ -37,7 +37,7 @@ window.onload = function () {
     var secondPlayerComment = "I will become the most powerful player on this smp!";
     //Third player nick / comment text
     var trirdPlayerName = 'Technoblade';
-    var trirdtPlayerComment = "Technoblade NEVER DIE";
+    var trirdtPlayerComment = "Technoblade NEVER DIE!!";
     //--------------------------------------------
 
     //Social media links / banner (url)
