@@ -88,7 +88,7 @@ window.onload = function () {
 
 
     MinecraftAPI.getServerStatus(serverIp, {
-        port: serverIpPort // optional, only if you need a custom port
+        port: 37202
     }, function (err, status) {
         if (err) {
             return document.querySelector('.server-status').innerHTML = 'Error loading status';
