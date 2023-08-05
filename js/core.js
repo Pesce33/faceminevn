@@ -30,7 +30,7 @@ window.onload = function () {
     //--------------- Home Gallery ---------------
     // Image automatically changes according to the name :)
     //Firs player nick / comment text
-    var firstPlayerName = 'Khanhkn';
+    var firstPlayerName = 'khanhkn';
     var firstPlayerComment = "Chào Mừng đến với .....";
     //Second player nick / comment text
     var secondPlayerName = 'hef_sus';
